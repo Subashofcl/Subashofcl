@@ -8,14 +8,7 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br>
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/subashofficial/)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-</div> 
 
  <div align="center">
  <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐓𝐡𝐚𝐭 𝐈 𝐊𝐧𝐨𝐰 </h2>
@@ -47,4 +40,14 @@
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align="center">
+ 
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/subashofficial/)
+ 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br>
+
+
+</div> 
 
