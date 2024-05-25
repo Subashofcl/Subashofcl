@@ -3,7 +3,7 @@
 <div align="center">
  
 <h1 align="center">Hi There👋, Im Subash</h1>
-<h3 align="center">A passionate Programmer</h3>
+<h3 align="center">Im A passionate Programmer</h3>
 <p align="center">I'm hooked on computer tech 🌐! Since I was a kid. I love diving into new tech 💻 and bringing ideas to life. Let's create some magic together! ✨
 
 </div>
